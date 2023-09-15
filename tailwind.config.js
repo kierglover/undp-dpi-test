@@ -9,7 +9,8 @@ module.exports = {
     },
     extend: {
       fontFamily: {
-        'sans': ['Proxima Nova'],
+        'sans': ['Proxima-Nova'],
+        'bold': ['Proxima-Nova-Bold'],
       },
     },
   },
