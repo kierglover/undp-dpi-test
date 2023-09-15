@@ -4,15 +4,15 @@
 
 @font-face {
   font-family: "Proxima-Nova-Bold";
-  src: url("/build/fonts/Proxima\ Nova—bold.otf");
+  src: url("/build/fonts/Proxima-Nova-Bold.otf");
 }
 
 @font-face {
   font-family: "Proxima-Nova-Semi-Bold";
-  src: url("/build/fonts/Proxima\ Nova\ Semibold.otf");
+  src: url("/build/fonts/Proxima-Nova-Bold.otf");
 }
 
 @font-face {
   font-family: "Proxima-Nova";
-  src: url("/build/fonts/Proxima\ Nova\ ScOsf\ Cond\ Reg.otf");
+  src: url("/build/fonts/Proxima-Nova-Reg.otf");
 }
